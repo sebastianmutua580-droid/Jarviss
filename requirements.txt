@@ -1,0 +1,4 @@
+
+# JARVIS AI Assistant
+# The current starter version uses Python built-in libraries.
+# Additional packages will be added as we build voice and AI features.
